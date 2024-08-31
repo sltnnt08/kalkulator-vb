@@ -1,0 +1,11 @@
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\bin\Debug\proc_func.exe.config
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\bin\Debug\proc_func.exe
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\bin\Debug\proc_func.pdb
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\bin\Debug\proc_func.xml
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\obj\Debug\proc_func.vbproj.AssemblyReference.cache
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\obj\Debug\proc_func.Resources.resources
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\obj\Debug\proc_func.vbproj.GenerateResource.cache
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\obj\Debug\proc_func.vbproj.CoreCompileInputs.cache
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\obj\Debug\proc_func.exe
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\obj\Debug\proc_func.xml
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\proc_func\obj\Debug\proc_func.pdb
